@@ -1,4 +1,4 @@
-# PatikaAlgoritma
+# PatikaAlgoritma1
 Proje 1 <br>
 [22,27,16,2,18,6] -> Insertion Sort <br>
 1-)Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız. <br>
